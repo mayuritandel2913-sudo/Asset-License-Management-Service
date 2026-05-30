@@ -1,0 +1,5 @@
+@AssetManagement.Api_HostAddress = http://localhost:5109
+
+Accept: application/json
+
+###
